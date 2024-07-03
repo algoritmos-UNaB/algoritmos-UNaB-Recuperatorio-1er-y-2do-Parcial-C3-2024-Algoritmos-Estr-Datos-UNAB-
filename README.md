@@ -1,4 +1,4 @@
-# RECUPERATORIO 1ER Y 2do PARCIAL - Algoritmos y Estructuras de datos - MIERCOLES 26 - JUNIO - 2024
+# RECUPERATORIO 1ER Y 2do PARCIAL - Algoritmos y Estructuras de datos - MIERCOLES 3 de Julio  - 2024
 
 ## Modalidad:
 
